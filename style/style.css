@@ -177,7 +177,7 @@ body{
     text-align: center;
 }
 .catalog-btn{
-    background-image: url(./img/double-btn.png);
+    background-image: url(../img/double-btn.png);
     width: 171px;
     height: 61px;
     margin-right: 20px;
@@ -219,22 +219,22 @@ body{
     margin-right: 0px;
 }
 .card1{
-    background-image: url(./img/koltsa.png);
+    background-image: url(../img/koltsa.png);
 }
 .card2{
-    background-image: url(./img/sergi.png);
+    background-image: url(../img/sergi.png);
 }
 .card3{
-    background-image: url(./img/podveski.png);
+    background-image: url(../img/podveski.png);
 }
 .card4{
-    background-image: url(./img/zap.png);
+    background-image: url(../img/zap.png);
 }
 .card5{
-    background-image: url(./img/brasleti.png);
+    background-image: url(../img/brasleti.png);
 }
 .card6{
-    background-image: url(./img/chasi.png);
+    background-image: url(../img/chasi.png);
 }
 .card:hover{
     transform: scale(1.05);
@@ -295,7 +295,7 @@ body{
 
 
 .salon{
-    background-image: url(./img/Rectangle6.png);
+    background-image: url(../img/Rectangle6.png);
     height: 521px;
     padding-top: 100px;
 }
@@ -363,13 +363,13 @@ body{
     margin: 60px 45px 45px 0px;
 }
 .card7{
-    background-image: url(./img/13.png);
+    background-image: url(../img/13.png);
 }
 .card8{
-    background-image: url(./img/23.png);
+    background-image: url(../img/23.png);
 }
 .card9{
-    background-image: url(./img/33.png);
+    background-image: url(../img/33.png);
 }
 .stateiki-btn{
     width: 261px;
@@ -440,22 +440,22 @@ body{
     height: 300px;
 }
 .join-card1{
-    background-image: url(./img/img--hover.png);
+    background-image: url(../img/img--hover.png);
 }
 .join-card2{
-    background-image: url(./img/gallery__image.png);
+    background-image: url(../img/gallery__image.png);
 }
 .join-card3{
-    background-image: url(./img/prprprprp.png);
+    background-image: url(../img/prprprprp.png);
 }
 .join-card4{
-    background-image: url(./img/ochhhhhh.png);
+    background-image: url(../img/ochhhhhh.png);
 }
 .join-card5{
-    background-image: url(./img/dimondddd.png);
+    background-image: url(../img/dimondddd.png);
 }
 .join-card6{
-    background-image: url(./img/Rectangle8.png);
+    background-image: url(../img/Rectangle8.png);
 }
 
 
